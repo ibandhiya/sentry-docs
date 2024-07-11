@@ -3286,6 +3286,14 @@ const SDK_DOCS_REDIRECTS: Redirect[] = [
     from: '/account/quotas/spike-protection/',
     to: '/pricing/quotas/spike-protection/',
   },
+  {
+    from: '/platforms/javascript/guides/aws-lambda/container-image/',
+    to: '/platforms/javascript/guides/aws-lambda/install/',
+  },
+  {
+    from: '/platforms/javascript/guides/aws-lambda/layer/',
+    to: '/platforms/javascript/guides/aws-lambda/install/',
+  },
 ];
 
 const DEVELOPER_DOCS_REDIRECTS: Redirect[] = [
